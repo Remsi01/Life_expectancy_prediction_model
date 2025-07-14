@@ -23,4 +23,8 @@ The model uses female and male life expectancies to predict total life expectanc
 
 ## Visualizations
 - Correlation matrix: Reveals strong relationships between male, female, and total life expectancies.
+![Correlation Heatmap](correlation_matrix.png)
+
 - Regression results: Compares predicted vs. actual values and shows prediction errors.
+
+![Actual vs Predicted and Residuals](regression_results.png)
